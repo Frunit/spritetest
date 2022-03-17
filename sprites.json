@@ -1,0 +1,16 @@
+{
+	"frames": {
+		"background_border": {
+			"frame": {"x": 2, "y": 2, "w": 128, "h": 128}
+		},
+		"background_no_border": {
+			"frame": {"x": 133, "y": 2, "w": 128, "h": 128}
+		}
+	},
+	"meta": {
+		"image": "sprites.png",
+		"format": "RGBA8888",
+		"size": {"w": 512, "h": 256},
+		"scale": 1
+	}
+}
